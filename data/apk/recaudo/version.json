@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "versionCode": 2,
+  "version": "1.2.0",
+  "versionCode": 3,
   "nombre": "Recaudo JAC Bateas",
-  "descripcion": "Sistema de recaudo con backup, proteccion de edicion y sincronizacion mejorada",
+  "descripcion": "Splash bienvenida, modo offline, token obligatorio, recibo 57mm",
   "fecha": "2026-06-25",
   "apk": "https://raw.githubusercontent.com/carlos2601/app_jac_bateas/main/data/apk/recaudo/Recaudo_JAC_Bateas.apk"
 }
