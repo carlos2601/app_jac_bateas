@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "nombre": "Recaudo JAC Bateas",
+  "descripcion": "Sistema de recaudo con backup, proteccion de edicion y sincronizacion mejorada",
+  "fecha": "2026-06-25",
+  "apk": "https://raw.githubusercontent.com/carlos2601/app_jac_bateas/main/data/apk/recaudo/Recaudo_JAC_Bateas.apk"
+}
