@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "versionCode": 2,
   "nombre": "Recaudo JAC Bateas",
   "descripcion": "Sistema de recaudo con backup, proteccion de edicion y sincronizacion mejorada",
